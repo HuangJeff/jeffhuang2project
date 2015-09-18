@@ -23,6 +23,7 @@ import javax.xml.soap.SOAPPart;
 /**
  * 測試用來Call 台北市公車Web Service
  * @see <a href="http://info.cms.hinet.net/WS_CHT_HiCloud/competition/manual.htm#_Toc379977390">API文件</a>
+ * @see <a href="http://info.cms.hinet.net/WS_CHT_HiCloud/competition/Service.asmx">Service文件</a>
  * @see <a href="http://info.cms.hinet.net/WS_CHT_HiCloud/competition/Service.asmx?op=GetCameraPlusJSON">GetCameraPlusJSON 其中一個Method回傳範例</a>
  * @author jeff
  */
